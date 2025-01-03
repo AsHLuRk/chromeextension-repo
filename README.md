@@ -3,7 +3,7 @@
 
 **LinkSaver** is a Chrome extension designed to help you easily save and manage your favorite links.
 
-![Logo](logo.png)
+![Logo](Screenshot 2025-01-03 130753.png)
 
 ## Features
 
